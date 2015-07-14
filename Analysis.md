@@ -23,3 +23,10 @@ The following diagram defines the main navigation flow, by defining:
   macro interactions: those which usually trigger screen changes.
 
 <img src="./data/analysis/navigation.dot.png" style="width:100%;" />
+
+### Other interactions
+
+Of course there are a lot of interactions not described in the section
+*Navigation*. Even the described ones can have a lot of details attached.
+
+The most important details are described above.

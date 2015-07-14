@@ -10,6 +10,8 @@ The UI follows:
 
 ### Material UI principles
 
+**We'll try to follow the Material UI principles as much as possible.**
+
 #### Material is the metaphor
 
 - A material metaphor is the unifying theory of a rationalized space and a
@@ -52,3 +54,25 @@ The UI follows:
   maintain continuity. Feedback is subtle yet clear.
   Transitions are efficient yet *coherent*.
 
+
+### Material UI colors
+
+The colors used are compliant with the [Google Material UI color palette](http://www.google.it/design/spec/style/color.html#color-color-palette).
+
+This involves [using the material theme](http://developer.android.com/training/material/theme.html#ColorPalette).
+
+The colors chosen are:
+
+- Green as Primary.
+- Orange as Accent.
+
+This leads to the following color palettes:
+
+<img src="./data/design/colors-palette-primary.svg" style="width: 40%; vertical-align: top; padding: 0 12% 0 4%;" />
+<img src="./data/design/colors-palette-accent.svg" style="width: 40%; vertical-align: top;" />
+
+### Material UI typography
+
+The typography follows the [Google Material UI typography guidelines](http://www.google.it/design/spec/style/typography.html).
+
+In particular the `Roboto` font will be used.
