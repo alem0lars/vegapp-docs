@@ -28,5 +28,3 @@ The following diagram defines the main navigation flow, by defining:
 
 Of course there are a lot of interactions not described in the section
 *Navigation*. Even the described ones can have a lot of details attached.
-
-The most important details are described above.
