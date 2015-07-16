@@ -1,0 +1,13 @@
+# Dependency directory.
+node_modules
+
+# Grunt intermediate storage.
+.grunt
+
+# Book build output.
+_book
+
+# eBook build output.
+*.epub
+*.mobi
+*.pdf

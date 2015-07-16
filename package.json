@@ -1,0 +1,18 @@
+{
+  "name": "vegapp-docs",
+  "version": "1.0.0",
+  "description": "Description & Notes of the VegApp development process.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alem0lars/vegapp-docs.git"
+  },
+  "author": "Alessandro Molari",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/alem0lars/vegapp-docs/issues"
+  },
+  "homepage": "https://github.com/alem0lars/vegapp-docs",
+  "dependencies": {
+    "gitbook-cli": "^0.3.4"
+  }
+}
