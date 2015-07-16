@@ -68,8 +68,7 @@ The colors chosen are:
 
 This leads to the following color palettes:
 
-<img src="./data/design/colors-palette-primary.svg" style="width: 40%; vertical-align: top; padding: 0 12% 0 4%;" />
-<img src="./data/design/colors-palette-accent.svg" style="width: 40%; vertical-align: top;" />
+![](../data/design/colors-palette-primary.svg) ![](../data/design/colors-palette-accent.svg)
 
 ### Material UI typography
 

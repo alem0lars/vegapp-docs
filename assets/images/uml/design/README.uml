@@ -1,7 +1,3 @@
-# Design
-
-The VegApp ecosystem consists in the following parts:
-
 ```uml
 @startuml
 

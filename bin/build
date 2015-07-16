@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
-_dir=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+_bin_dir=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
 
-cd "${_dir}/.."
+cd "${_bin_dir}/.."
 
-exec ./node_modules/gitbook-cli/bin/gitbook.js build
+./node_modules/gitbook-cli/bin/gitbook.js build

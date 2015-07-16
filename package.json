@@ -13,6 +13,7 @@
   },
   "homepage": "https://github.com/alem0lars/vegapp-docs",
   "dependencies": {
-    "gitbook-cli": "^0.3.4"
+    "gitbook-cli": "^0.3.4",
+    "gitbook-plugin-plantuml": "0.0.15"
   }
 }

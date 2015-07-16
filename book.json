@@ -1,3 +1,11 @@
 {
-    
+  "gitbook": "2.x.x",
+  "plugins": ["plantuml"],
+  "links": {
+    "sidebar": {
+      "Book's source code": "https://github.com/alem0lars/vegapp-docs"
+    }
+  },
+  "pluginsConfig": {},
+  "version": "1.0.0"
 }
