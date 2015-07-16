@@ -68,7 +68,7 @@ The colors chosen are:
 
 This leads to the following color palettes:
 
-![](../data/design/colors-palette-primary.svg) ![](../data/design/colors-palette-accent.svg)
+![](../assets/images/svg/colors-palette-primary.svg) ![](../assets/images/svg/colors-palette-accent.svg)
 
 ### Material UI typography
 
