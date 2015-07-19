@@ -4,6 +4,8 @@
 
 ---
 
+## Development process
+
 When developing VegApp I've chosen *an Agile (and Model-Driven)
 development methodology*.
 
@@ -13,7 +15,12 @@ the [analysis](./analysis/README.md).
 Then, when both the requirements and the problem was clear to me, I've
 started to [design](./design/README.md) the product.
 
-Finally, I've [implement](./implement/README.md)ed the designed artifacts.
+Finally, I've [implement](./implement/README.md)ed the designed
+artifacts.
+
+## Useful links
+
+* [nutritionvalue.org](http://www.nutritionvalue.org)
 
 ## License
 
